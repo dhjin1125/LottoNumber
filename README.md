@@ -16,5 +16,5 @@ Kotlin으로 제작한 로또 번호 생성기 입니다.
 
 
 # <결과화면>
-![로또](https://user-images.githubusercontent.com/74042160/153191623-357f9a8a-e0b2-4952-9157-1bf57b89e005.PNG)
+![lotto](https://user-images.githubusercontent.com/74042160/153193019-544789d1-508d-4abe-95f6-80c068094c0f.PNG)
 
